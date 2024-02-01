@@ -1,3 +1,5 @@
+The main part is in [App.js ](src/App.js)
+
 Please follow these general steps:
 
 1. Extract the contents of the shared archive (if applicable).
