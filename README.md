@@ -13,16 +13,13 @@ Please follow these steps:
 
 2. Open a terminal or command prompt and navigate to the bookstore folder.
 
-3. Run `npm install`to install the project dependencies based on the package.json file.
-
-4. Run `npm start` to start the development server.
+3. Run `npm start` to start the development server.
 
 
 ### Part 2. The main code is in [server.js](RESTAPI/server.js)
 
 1. Please install following packages:
-`npm install express`
-`npm install cors`
+`npm install express cors`
 
 2. Open a terminal or command prompt and navigate to the RESTAPI folder.
 
