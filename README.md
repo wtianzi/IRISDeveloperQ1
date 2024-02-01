@@ -1,8 +1,8 @@
 ## Welcome to the answer to question 1. Bookstore
 
 The running of the webpage need two parts: 
-1. A webpage (REACT): npm start
-2. A REST API: node server.js
+1. A webpage (REACT): `npm start`
+2. A REST API: `node server.js`
 
 ## Setup
 ### Part 1. The main code is in [App.js](bookstore/src/App.js)
@@ -30,4 +30,4 @@ Please follow these steps:
 
 ### Demo Page
 
-![Demo](public/demopage.png)
+![Demo](bookstore/public/demopage.png)
