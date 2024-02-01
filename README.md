@@ -18,7 +18,7 @@ Please follow these steps:
 4. Run `npm start` to start the development server.
 
 
-### Part 2. The main code is in [server.js](src/App.js)
+### Part 2. The main code is in [server.js](RESTAPI/src/server.js)
 
 1. Please install following packages:
 `npm install express`
