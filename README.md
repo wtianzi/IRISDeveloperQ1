@@ -5,11 +5,10 @@ The running of the webpage need two parts:
 2. A REST API: `node server.js`
 
 ## Setup
+Please follow these steps:
 ### Part 1. The main code is in [App.js](bookstore/src/App.js)
 
-Please follow these steps:
-
-1. Extract the contents.
+1. Install following packages: `npm install react-scripts`
 
 2. Open a terminal or command prompt and navigate to the bookstore folder.
 
@@ -18,8 +17,7 @@ Please follow these steps:
 
 ### Part 2. The main code is in [server.js](RESTAPI/server.js)
 
-1. Please install following packages:
-`npm install express cors`
+1. Install the packages: `npm install express cors`
 
 2. Open a terminal or command prompt and navigate to the RESTAPI folder.
 
