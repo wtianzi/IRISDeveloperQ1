@@ -1,15 +1,33 @@
-The main part is in [App.js ](src/App.js)
+## Welcome to the answer to question 1. Bookstore
 
-Please follow these general steps:
+The running of the webpage need two parts: 
+1. A webpage (REACT): npm start
+2. A REST API: node server.js
 
-1. Extract the contents of the shared archive (if applicable).
+## Setup
+### Part 1. The main code is in [App.js](bookstore/src/App.js)
 
-2. Open a terminal or command prompt and navigate to the project folder.
+Please follow these steps:
 
-3. Run `npm install` or `yarn install` to install the project dependencies based on the package.json file.
+1. Extract the contents.
 
-4. Run `npm start` or yarn start to start the development server.
+2. Open a terminal or command prompt and navigate to the bookstore folder.
 
-Demo Page
+3. Run `npm install`to install the project dependencies based on the package.json file.
+
+4. Run `npm start` to start the development server.
+
+
+### Part 2. The main code is in [server.js](src/App.js)
+
+1. Please install following packages:
+`npm install express`
+`npm install cors`
+
+2. Open a terminal or command prompt and navigate to the RESTAPI folder.
+
+3. Run `node server.js` to start the server.
+
+### Demo Page
 
 ![Demo](public/demopage.png)
