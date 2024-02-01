@@ -1,8 +1,8 @@
 ## Welcome to the answer to question 1. Bookstore
 
 The running of the webpage need two parts: 
-1. A webpage (REACT): `npm start`
-2. A REST API: `node server.js`
+1. A webpage (REACT)
+2. A REST API
 
 ## Setup
 Please follow these steps:
